@@ -159,7 +159,7 @@ class StudentManagement {
 }
 
 // Main class to run the program
-public class Main {
+public class Student_Management_system {
     public static void main(String[] args) {
         StudentManagement management = new StudentManagement();
         Scanner scanner = new Scanner(System.in);
